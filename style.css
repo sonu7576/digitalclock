@@ -48,5 +48,28 @@
 
 
 body{
+    height: auto;
     background-color: black;
+}
+
+@media(max-width:376px){
+    
+    
+    .clock{
+        margin-top: 20%;
+
+        margin-left: 29%;
+
+    width: 150px;
+    height: 60%;
+    font-size: 100px;
+    }
+    .sec{
+    
+        display: block;
+    }
+    #clockap{
+        font-size: 40px;
+    }
+
 }
