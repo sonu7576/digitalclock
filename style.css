@@ -1,0 +1,52 @@
+
+*{
+    font-family: 'Electrolize', sans-serif;
+}
+
+.clock{
+    margin-left: 38%;
+    margin-top: 2%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 60%;
+    font-size: 150px;
+    background-color: rgb(54, 54, 54);
+    border-radius: 10px;
+
+
+}
+
+#clocks{
+    
+    color: red;
+    
+
+}
+
+#clockap{
+    margin-left: 30%;
+    margin-top: 2%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: white;
+
+}
+
+.sec{
+    
+    display: flex;
+}
+
+
+
+
+
+body{
+    background-color: black;
+}
